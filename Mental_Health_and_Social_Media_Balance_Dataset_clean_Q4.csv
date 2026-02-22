@@ -1,0 +1,392 @@
+,User_ID,Age,Gender,Social_Media_Platform,Happiness_Index(1-10)
+1,U002,30,Other,LinkedIn,10
+3,U004,36,Female,TikTok,8
+4,U005,34,Female,X (Twitter),8
+5,U006,38,Male,LinkedIn,8
+6,U007,26,Female,TikTok,7
+7,U008,26,Female,Instagram,7
+8,U009,39,Male,YouTube,9
+10,U011,18,Female,Instagram,7
+11,U012,37,Other,Instagram,9
+12,U013,17,Female,YouTube,8
+13,U014,39,Female,Facebook,8
+14,U015,45,Male,X (Twitter),9
+16,U017,36,Female,Facebook,7
+20,U021,40,Female,X (Twitter),10
+21,U022,42,Other,TikTok,10
+22,U023,43,Male,Facebook,9
+26,U027,22,Female,X (Twitter),6
+27,U028,36,Female,Facebook,10
+28,U029,24,Male,X (Twitter),10
+29,U030,33,Male,Instagram,8
+32,U033,29,Female,LinkedIn,10
+34,U035,41,Other,LinkedIn,9
+35,U036,17,Other,TikTok,7
+36,U037,35,Female,Facebook,8
+37,U038,43,Female,TikTok,10
+38,U039,22,Other,Facebook,9
+39,U040,23,Female,Facebook,10
+40,U041,29,Male,X (Twitter),10
+41,U042,32,Male,Instagram,7
+42,U043,19,Male,LinkedIn,10
+43,U044,17,Other,X (Twitter),10
+44,U045,21,Female,X (Twitter),8
+45,U046,19,Male,Facebook,9
+47,U048,33,Female,LinkedIn,9
+48,U049,41,Male,TikTok,9
+49,U050,49,Male,TikTok,9
+50,U051,25,Female,X (Twitter),10
+51,U052,29,Female,YouTube,10
+52,U053,46,Female,YouTube,10
+53,U054,30,Female,TikTok,7
+54,U055,23,Female,YouTube,8
+57,U058,36,Female,X (Twitter),9
+58,U059,31,Male,Instagram,6
+59,U060,33,Male,X (Twitter),7
+60,U061,39,Male,TikTok,10
+61,U062,41,Female,TikTok,9
+62,U063,40,Female,X (Twitter),10
+64,U065,30,Male,TikTok,5
+65,U066,16,Male,YouTube,10
+67,U068,22,Male,TikTok,10
+71,U072,23,Female,TikTok,8
+73,U074,26,Female,LinkedIn,8
+74,U075,32,Female,LinkedIn,8
+80,U081,24,Female,Instagram,8
+81,U082,23,Female,TikTok,8
+83,U084,49,Male,X (Twitter),8
+85,U086,38,Female,TikTok,9
+87,U088,37,Female,X (Twitter),10
+88,U089,42,Male,Instagram,6
+89,U090,16,Male,X (Twitter),10
+91,U092,18,Male,LinkedIn,9
+92,U093,16,Male,LinkedIn,9
+93,U094,20,Male,X (Twitter),8
+95,U096,29,Male,TikTok,10
+96,U097,42,Male,Facebook,8
+97,U098,24,Female,Facebook,6
+98,U099,30,Female,LinkedIn,8
+99,U100,30,Female,Facebook,10
+100,U101,41,Male,Instagram,10
+102,U103,47,Male,Instagram,7
+103,U104,47,Male,Facebook,9
+105,U106,45,Male,LinkedIn,6
+106,U107,38,Male,Instagram,9
+107,U108,30,Male,X (Twitter),10
+108,U109,44,Male,LinkedIn,7
+109,U110,28,Male,X (Twitter),8
+110,U111,47,Male,TikTok,8
+111,U112,22,Female,Instagram,6
+112,U113,37,Female,LinkedIn,9
+114,U115,17,Female,TikTok,10
+115,U116,21,Female,X (Twitter),10
+116,U117,43,Male,LinkedIn,9
+118,U119,35,Female,Facebook,9
+119,U120,45,Male,YouTube,8
+120,U121,26,Male,X (Twitter),9
+121,U122,43,Female,TikTok,10
+122,U123,40,Female,Instagram,8
+123,U124,48,Male,YouTube,10
+125,U126,42,Male,LinkedIn,9
+127,U128,18,Female,TikTok,9
+128,U129,21,Male,Instagram,7
+129,U130,23,Male,X (Twitter),9
+130,U131,42,Female,LinkedIn,7
+133,U134,39,Female,LinkedIn,9
+134,U135,30,Female,X (Twitter),8
+135,U136,47,Female,Instagram,10
+136,U137,47,Female,TikTok,10
+138,U139,27,Male,LinkedIn,10
+139,U140,17,Female,X (Twitter),10
+141,U142,32,Male,Facebook,10
+142,U143,17,Male,LinkedIn,10
+143,U144,17,Male,Instagram,8
+144,U145,43,Male,TikTok,9
+145,U146,38,Male,LinkedIn,10
+146,U147,47,Male,YouTube,9
+147,U148,48,Male,TikTok,10
+149,U150,34,Female,LinkedIn,10
+150,U151,17,Female,X (Twitter),6
+151,U152,41,Female,YouTube,5
+152,U153,47,Female,LinkedIn,9
+153,U154,21,Male,Instagram,8
+156,U157,26,Female,Instagram,8
+157,U158,32,Male,YouTube,8
+158,U159,39,Male,Instagram,7
+159,U160,20,Male,Instagram,5
+160,U161,49,Male,YouTube,8
+161,U162,21,Female,YouTube,8
+162,U163,37,Female,Instagram,10
+163,U164,26,Male,Facebook,8
+164,U165,31,Other,YouTube,10
+165,U166,48,Female,LinkedIn,8
+166,U167,24,Male,TikTok,7
+167,U168,21,Male,X (Twitter),10
+168,U169,31,Male,Instagram,10
+169,U170,44,Male,Instagram,10
+170,U171,18,Male,X (Twitter),6
+171,U172,35,Male,Facebook,7
+172,U173,34,Male,X (Twitter),8
+174,U175,18,Female,X (Twitter),8
+175,U176,34,Male,Instagram,10
+176,U177,35,Female,X (Twitter),8
+177,U178,47,Male,TikTok,9
+178,U179,22,Other,LinkedIn,7
+179,U180,48,Male,YouTube,7
+181,U182,16,Other,Instagram,8
+182,U183,26,Female,LinkedIn,10
+183,U184,43,Female,YouTube,7
+184,U185,40,Male,Instagram,5
+186,U187,46,Female,TikTok,10
+187,U188,45,Female,Facebook,7
+188,U189,22,Female,TikTok,6
+189,U190,31,Female,X (Twitter),10
+190,U191,41,Male,YouTube,9
+191,U192,17,Female,X (Twitter),10
+195,U196,47,Female,LinkedIn,8
+196,U197,24,Male,Instagram,10
+197,U198,34,Male,YouTube,6
+198,U199,31,Female,X (Twitter),10
+199,U200,18,Male,X (Twitter),9
+200,U201,35,Female,Facebook,10
+201,U202,39,Male,TikTok,9
+202,U203,48,Female,TikTok,4
+204,U205,26,Male,X (Twitter),7
+205,U206,23,Male,Facebook,10
+206,U207,35,Male,Instagram,7
+207,U208,40,Male,LinkedIn,7
+209,U210,44,Male,Instagram,9
+210,U211,33,Female,X (Twitter),8
+212,U213,17,Female,LinkedIn,6
+213,U214,31,Female,LinkedIn,9
+214,U215,48,Female,TikTok,7
+215,U216,19,Female,YouTube,10
+216,U217,48,Male,X (Twitter),10
+217,U218,29,Male,X (Twitter),8
+218,U219,36,Female,LinkedIn,10
+219,U220,35,Female,X (Twitter),9
+221,U222,22,Male,YouTube,8
+223,U224,32,Female,Facebook,10
+224,U225,48,Male,Instagram,5
+225,U226,27,Male,YouTube,7
+226,U227,37,Female,YouTube,8
+228,U229,45,Female,Facebook,9
+230,U231,42,Female,LinkedIn,6
+231,U232,42,Male,X (Twitter),8
+232,U233,49,Male,LinkedIn,8
+233,U234,36,Male,TikTok,8
+234,U235,45,Female,Facebook,10
+235,U236,48,Female,YouTube,5
+236,U237,43,Female,LinkedIn,9
+238,U239,20,Female,LinkedIn,9
+239,U240,34,Male,Instagram,7
+240,U241,19,Female,YouTube,8
+241,U242,32,Male,Instagram,5
+242,U243,43,Male,YouTube,10
+243,U244,45,Male,Facebook,7
+244,U245,44,Male,X (Twitter),10
+245,U246,21,Female,LinkedIn,9
+246,U247,39,Female,LinkedIn,7
+247,U248,90,Male,TikTok,6
+248,U249,46,Female,Instagram,4
+249,U250,48,Male,LinkedIn,8
+250,U251,36,Female,Facebook,9
+251,U252,47,Female,X (Twitter),8
+252,U253,38,Female,Facebook,10
+253,U254,48,Male,Instagram,8
+254,U255,18,Female,TikTok,9
+255,U256,33,Female,LinkedIn,5
+256,U257,40,Male,Facebook,7
+257,U258,46,Male,YouTube,9
+258,U259,18,Female,X (Twitter),6
+259,U260,39,Female,Facebook,7
+260,U261,47,Female,X (Twitter),10
+261,U262,37,Female,LinkedIn,10
+263,U264,17,Male,TikTok,4
+264,U265,42,Male,TikTok,8
+265,U266,17,Male,YouTube,7
+267,U268,32,Male,LinkedIn,8
+268,U269,48,Female,Facebook,6
+269,U270,24,Female,YouTube,10
+270,U271,44,Female,Instagram,8
+272,U273,40,Female,TikTok,6
+273,U274,39,Male,YouTube,9
+274,U275,28,Female,TikTok,5
+275,U276,22,Male,X (Twitter),10
+276,U277,35,Male,TikTok,9
+279,U280,31,Male,Instagram,7
+282,U283,38,Female,LinkedIn,10
+283,U284,30,Female,YouTube,7
+284,U285,43,Female,X (Twitter),10
+285,U286,49,Male,LinkedIn,9
+286,U287,17,Male,YouTube,7
+287,U288,47,Male,Instagram,9
+288,U289,38,Female,Instagram,6
+289,U290,37,Female,Facebook,9
+291,U292,37,Male,LinkedIn,8
+292,U293,37,Other,X (Twitter),10
+293,U294,21,Male,X (Twitter),10
+294,U295,30,Female,TikTok,10
+295,U296,48,Female,Instagram,7
+296,U297,23,Female,Instagram,8
+297,U298,20,Male,YouTube,5
+298,U299,19,Female,Facebook,9
+299,U300,21,Female,LinkedIn,10
+300,U301,47,Female,Facebook,10
+302,U303,31,Female,YouTube,8
+303,U304,28,Female,Facebook,7
+305,U306,34,Female,YouTube,10
+306,U307,32,Female,TikTok,7
+307,U308,34,Male,YouTube,6
+308,U309,43,Female,Facebook,8
+309,U310,41,Female,TikTok,7
+310,U311,41,Female,TikTok,9
+311,U312,38,Male,TikTok,9
+313,U314,27,Other,X (Twitter),8
+314,U315,16,Female,Facebook,9
+315,U316,16,Male,TikTok,10
+317,U318,47,Female,X (Twitter),8
+318,U319,40,Female,LinkedIn,8
+319,U320,16,Female,Facebook,10
+324,U325,18,Male,X (Twitter),10
+325,U326,27,Male,X (Twitter),5
+326,U327,41,Male,TikTok,9
+327,U328,31,Female,Facebook,8
+328,U329,37,Female,TikTok,10
+330,U331,29,Male,Facebook,7
+331,U332,43,Female,TikTok,10
+333,U334,45,Male,X (Twitter),10
+337,U338,41,Female,Instagram,7
+338,U339,41,Male,LinkedIn,7
+339,U340,36,Female,YouTube,9
+340,U341,48,Male,Instagram,8
+341,U342,45,Female,LinkedIn,7
+342,U343,38,Female,Instagram,8
+343,U344,25,Male,Facebook,8
+344,U345,20,Female,X (Twitter),10
+345,U346,49,Male,Instagram,8
+346,U347,46,Other,YouTube,10
+347,U348,71,Male,TikTok,8
+348,U349,34,Male,LinkedIn,10
+349,U350,47,Male,Instagram,8
+350,U351,16,Other,Instagram,8
+351,U352,20,Female,YouTube,9
+353,U354,31,Male,Instagram,6
+354,U355,39,Female,Instagram,10
+355,U356,31,Male,X (Twitter),8
+356,U357,17,Female,YouTube,10
+357,U358,43,Male,LinkedIn,10
+358,U359,47,Male,LinkedIn,7
+359,U360,42,Male,Instagram,8
+360,U361,35,Female,X (Twitter),7
+363,U364,48,Female,LinkedIn,10
+364,U365,48,Male,Facebook,9
+365,U366,27,Female,TikTok,10
+366,U367,18,Male,Instagram,10
+367,U368,16,Male,YouTube,10
+368,U369,48,Female,LinkedIn,10
+369,U370,25,Male,Facebook,7
+370,U371,44,Male,TikTok,10
+372,U373,27,Other,X (Twitter),10
+373,U374,46,Male,YouTube,8
+374,U375,17,Male,TikTok,9
+375,U376,38,Female,X (Twitter),10
+376,U377,32,Male,Instagram,6
+377,U378,41,Male,X (Twitter),6
+378,U379,23,Male,TikTok,10
+379,U380,44,Female,TikTok,10
+380,U381,41,Female,Instagram,9
+382,U383,41,Male,X (Twitter),9
+383,U384,49,Male,Instagram,10
+385,U386,19,Male,LinkedIn,9
+386,U387,26,Male,Instagram,7
+387,U388,44,Female,YouTube,10
+389,U390,36,Female,YouTube,8
+390,U391,25,Male,LinkedIn,8
+392,U393,39,Male,Facebook,8
+393,U394,33,Female,Facebook,9
+395,U396,39,Female,Instagram,8
+396,U397,38,Male,X (Twitter),8
+397,U398,47,Female,LinkedIn,10
+398,U399,27,Male,YouTube,10
+399,U400,28,Male,YouTube,10
+400,U401,38,Female,YouTube,9
+401,U402,40,Male,YouTube,10
+402,U403,45,Male,Facebook,10
+403,U404,32,Male,YouTube,7
+404,U405,35,Male,X (Twitter),6
+405,U406,40,Male,Facebook,6
+406,U407,37,Female,YouTube,10
+407,U408,28,Male,Instagram,10
+411,U412,27,Male,Facebook,10
+412,U413,24,Male,YouTube,6
+413,U414,22,Female,LinkedIn,9
+416,U417,46,Male,Facebook,9
+417,U418,34,Female,X (Twitter),10
+418,U419,31,Male,Instagram,10
+419,U420,20,Male,Instagram,8
+420,U421,27,Other,TikTok,6
+421,U422,40,Female,TikTok,8
+422,U423,36,Male,LinkedIn,8
+424,U425,31,Female,TikTok,10
+425,U426,29,Female,YouTube,8
+427,U428,20,Male,X (Twitter),9
+428,U429,38,Male,X (Twitter),8
+429,U430,44,Male,X (Twitter),10
+430,U431,26,Female,TikTok,10
+431,U432,33,Female,Instagram,7
+432,U433,27,Male,TikTok,7
+434,U435,25,Female,TikTok,9
+435,U436,32,Other,X (Twitter),10
+436,U437,22,Female,Facebook,7
+437,U438,28,Male,LinkedIn,9
+439,U440,42,Male,Facebook,9
+440,U441,17,Female,YouTube,4
+441,U442,20,Male,TikTok,10
+442,U443,44,Female,YouTube,6
+443,U444,34,Male,TikTok,10
+444,U445,23,Female,LinkedIn,7
+445,U446,16,Female,Facebook,8
+446,U447,37,Female,LinkedIn,8
+447,U448,32,Male,X (Twitter),7
+448,U449,22,Male,LinkedIn,8
+449,U450,40,Male,LinkedIn,8
+450,U451,19,Female,X (Twitter),7
+452,U453,46,Female,X (Twitter),6
+453,U454,34,Female,Facebook,10
+454,U455,42,Female,LinkedIn,6
+455,U456,25,Male,X (Twitter),9
+456,U457,41,Female,LinkedIn,10
+457,U458,34,Male,Facebook,10
+458,U459,18,Male,YouTube,7
+459,U460,28,Female,Facebook,6
+460,U461,43,Male,Instagram,9
+461,U462,35,Male,Instagram,8
+462,U463,43,Female,Instagram,10
+463,U464,23,Male,LinkedIn,5
+466,U467,28,Male,TikTok,8
+467,U468,43,Male,LinkedIn,9
+468,U469,40,Male,Facebook,10
+469,U470,48,Female,TikTok,8
+471,U472,47,Female,Instagram,10
+473,U474,31,Female,Instagram,10
+474,U475,36,Female,TikTok,8
+475,U476,26,Female,Facebook,6
+476,U477,34,Male,X (Twitter),10
+477,U478,35,Male,YouTube,10
+478,U479,33,Male,TikTok,9
+480,U481,30,Male,YouTube,7
+481,U482,46,Female,YouTube,4
+482,U483,16,Female,X (Twitter),8
+483,U484,18,Male,TikTok,10
+484,U485,31,Female,LinkedIn,9
+486,U487,26,Male,Instagram,10
+487,U488,27,Female,Facebook,8
+488,U489,25,Female,Facebook,7
+489,U490,47,Female,Instagram,10
+492,U493,27,Female,Facebook,9
+493,U494,39,Female,Facebook,10
+494,U495,43,Female,Instagram,10
+496,U497,43,Female,Facebook,9
+498,U499,23,Male,Facebook,9
+499,U500,43,Female,X (Twitter),7
