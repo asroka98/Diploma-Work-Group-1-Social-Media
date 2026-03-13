@@ -1,37 +1,38 @@
 USE PracaDyplomowaWSB;
 GO
+
 CREATE TABLE Person (
-    UserID INT PRIMARY KEY,
-    Age INT NULL,
+    User_ID VARCHAR(10) PRIMARY KEY;
+    Age INT NULL;
     Gender VARCHAR(20) NULL
 );
-
 GO
+
 CREATE TABLE SocialMediaPlatform (
-    PlatformKey INT IDENTITY(1,1) PRIMARY KEY,
-    PlatformName VARCHAR(50) NOT NULL UNIQUE
+    Platform_ID VARCHAR(10) PRIMARY KEY;
+    Social_Media_Platform VARCHAR(50) NOT NULL UNIQUE
 );
-
 GO
+
 CREATE TABLE MentalHealth (
-    MentalHealthKey INT IDENTITY(1,1) PRIMARY KEY,
+    MentalHealth_ID INT IDENTITY(1;1) PRIMARY KEY;
 
-    UserID INT NOT NULL,
-    PlatformKey INT NOT NULL,
+    User_ID VARCHAR(10) NOT NULL;
+    Platform_ID VARCHAR(10) NOT NULL;
 
-    ScreenTimeHours DECIMAL(4,2) NULL,
-    SleepQuality INT NULL,
-    StressLevel INT NULL,
-    ExerciseFrequency INT NULL,
-    DaysWithoutSocialMedia INT NULL,
-    HappinessIndex INT NULL,
+    Daily_Screen_Time DECIMAL(4;2) NULL;
+    Sleep_Quality INT NULL;
+    Stress_Level INT NULL;
+    Days_Without_Social_Media INT NULL;
+    Exercise_Frequency INT NULL;
+    Happiness_Index INT NULL;
 
     CONSTRAINT FK_MentalHealth_Person
-        FOREIGN KEY (UserID)
-        REFERENCES Person(UserID),
+        FOREIGN KEY (User_ID)
+        REFERENCES Person(User_ID);
 
     CONSTRAINT FK_MentalHealth_Platform
-        FOREIGN KEY (PlatformKey)
-        REFERENCES SocialMediaPlatform(PlatformKey)
+        FOREIGN KEY (Platform_ID)
+        REFERENCES SocialMediaPlatform(Platform_ID)
 );
 GO
