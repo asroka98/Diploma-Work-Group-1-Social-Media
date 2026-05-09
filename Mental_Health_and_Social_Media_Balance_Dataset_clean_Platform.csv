@@ -1,7 +1,7 @@
-,Platform_ID,Social_Media_Platform
-0,SM01,Facebook
-1,SM02,LinkedIn
-2,SM03,YouTube
-3,SM04,TikTok
-4,SM05,X (Twitter)
-7,SM06,Instagram
+Platform_ID,Social_Media_Platform
+SM01,Facebook
+SM02,LinkedIn
+SM03,YouTube
+SM04,TikTok
+SM05,X (Twitter)
+SM06,Instagram
