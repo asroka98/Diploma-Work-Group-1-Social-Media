@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Strona-1" id="VHK8hXUStLyKMCUi0cS3">
+    <mxGraphModel dx="1030" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ut9UFvMUm4VI8ir-n_uG-2" edge="1" parent="1" source="sIoeLUPXQbaNTb5uxUMA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sIoeLUPXQbaNTb5uxUMA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sIoeLUPXQbaNTb5uxUMA-2" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" value="&lt;div style=&quot;&quot;&gt;Clean Data (.csv)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="50" x="280" y="-885" as="geometry" />
+        </mxCell>
+        <mxCell id="ptrFZAY3PlII3t0LgOFr-5" edge="1" parent="1" source="sIoeLUPXQbaNTb5uxUMA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ptrFZAY3PlII3t0LgOFr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ptrFZAY3PlII3t0LgOFr-6" connectable="0" parent="ptrFZAY3PlII3t0LgOFr-5" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];whiteSpace=wrap;" value="Data loading" vertex="1">
+          <mxGeometry relative="1" x="-0.16" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIoeLUPXQbaNTb5uxUMA-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons-2627/icon-social-github-1402.svg" value="GitHub" vertex="1">
+          <mxGeometry height="70" width="70" x="390" y="-885" as="geometry" />
+        </mxCell>
+        <mxCell id="ptrFZAY3PlII3t0LgOFr-3" edge="1" parent="1" source="sIoeLUPXQbaNTb5uxUMA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ut9UFvMUm4VI8ir-n_uG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ptrFZAY3PlII3t0LgOFr-4" connectable="0" parent="ptrFZAY3PlII3t0LgOFr-3" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];whiteSpace=wrap;" value="Analytics and reporting" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIoeLUPXQbaNTb5uxUMA-4" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" value="SQL Server Express" vertex="1">
+          <mxGeometry height="79.99" width="60" x="700" y="-890.5" as="geometry" />
+        </mxCell>
+        <mxCell id="sIoeLUPXQbaNTb5uxUMA-8" edge="1" parent="1" source="sIoeLUPXQbaNTb5uxUMA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="sIoeLUPXQbaNTb5uxUMA-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="123.63" y="-850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIoeLUPXQbaNTb5uxUMA-5" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Times New Roman;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Dirty Data" vertex="1">
+          <mxGeometry height="80" width="60" x="10" y="-890" as="geometry" />
+        </mxCell>
+        <mxCell id="sIoeLUPXQbaNTb5uxUMA-14" edge="1" parent="1" source="sIoeLUPXQbaNTb5uxUMA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="273.63" y="-850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIoeLUPXQbaNTb5uxUMA-10" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=30;indent=100;align=center;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="113.63" y="-880" as="geometry" />
+        </mxCell>
+        <mxCell id="sIoeLUPXQbaNTb5uxUMA-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Data cleaning in Python" vertex="1">
+          <mxGeometry height="60" width="120" x="113.63" y="-880" as="geometry" />
+        </mxCell>
+        <mxCell id="Ut9UFvMUm4VI8ir-n_uG-3" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" value="Power BI" vertex="1">
+          <mxGeometry height="68" width="51" x="850" y="-885" as="geometry" />
+        </mxCell>
+        <mxCell id="ptrFZAY3PlII3t0LgOFr-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=30;indent=100;align=center;" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="-879.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ptrFZAY3PlII3t0LgOFr-7" edge="1" parent="1" source="ptrFZAY3PlII3t0LgOFr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="sIoeLUPXQbaNTb5uxUMA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ptrFZAY3PlII3t0LgOFr-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SQL:&amp;nbsp;database structure" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="-880.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
